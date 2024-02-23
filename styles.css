@@ -1,0 +1,102 @@
+body{
+    background-color:black;
+}
+
+header{
+  background-color: rgb(14, 80, 156);
+  margin: auto;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.name{
+    color:white;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 7%;
+    margin-top: 50px;
+    text-align: center;
+    outline-width: 20px;
+  }
+
+.position{
+    color:white;
+    font-weight:lighter;
+    font-size: 20px;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.previousproject{
+    background-color: rgb(14, 80, 156);
+    font-weight:bold;
+    font-size: 30px;
+    text-align: center;
+    color:white;
+
+}
+
+
+.container{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    text-align: center;
+    font-size: 30px;
+    color:white;
+}
+
+.skills{
+    background-color: rgb(14, 80, 156);
+    font-weight:bold;
+    font-size: 30px;
+    text-align:center;
+    font-weight: bold;
+    margin-top: 7%;
+    color:white;
+    
+}
+
+.skilltxt{
+    color:white;
+    font-size: 30px;
+    list-style-type: none;
+    text-align: center;
+    line-height:2;
+    
+}
+
+.abio{
+    background-color: rgb(14, 80, 156);
+    font-weight:bold;
+    font-size: 30px;
+    text-align:center;
+    font-weight: bold;
+    margin-top: 7%;
+    color:white;
+}
+
+.abiotxt{
+    color:white;
+    font-size: 30px;
+    list-style-type: none;
+    text-align: center;
+    line-height:2;
+}
+
+footer{
+    margin-top: 10%;
+    color:white;
+    font-size:larger;
+}
+
+
