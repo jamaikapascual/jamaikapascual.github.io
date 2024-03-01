@@ -65,5 +65,18 @@ function validatePassword(password1, password2){
 // console.log(validatePassword("HELLO1234", "HELLO1234")) // returns false
 
 
+//function for reversing the password
+function reversePassword(password){
+    let reversedPass = '';
+    for (let i = password.length -1; i>=0; i--){
+        reversedPass = reversedPass + password[i];
+    }
+    return reversedPass;
+
+}
+
+//console.log(reversePassword("Pass1234"));
+
+
 
 
