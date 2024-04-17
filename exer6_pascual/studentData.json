@@ -1,0 +1,32 @@
+[
+    {
+        "stdnum": "202101234",
+        "fname": "Mary Jane",
+        "lname": "Watson",
+        "age": 21
+      },
+      {
+        "stdnum": "202102345",
+        "fname": "Jamaika",
+        "lname": "Pascual",
+        "age": 21
+      },
+      {
+        "stdnum": "202103456",
+        "fname": "Toby",
+        "lname":"Roror",
+        "age": 18
+      }, 
+      {
+        "stdnum" : "202104567", 
+        "fname" : "Ginger", 
+        "lname" : "Lake", 
+        "age" : 20
+      }, 
+      {
+        "stdnum" : "202105678", 
+        "fname" : "Oreo", 
+        "lname" : "Coki", 
+        "age" : 21
+      }
+]
