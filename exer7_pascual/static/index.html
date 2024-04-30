@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="http://localhost:3000/exer.css">
+        <title>Pascual_Exer7</title>
+    </head>
+    <body>
+        <div class="main-container">
+            <div class="item item-1">
+                <div class="category category_clicked">
+                    <h3>FAVORITE FOOD</h3>
+                </div>
+                <div class="category">
+                    <h3>FAVORITE SONGS</h3>
+                </div>
+                <div class="category">
+                    <h3>FAVORITE QUOTES</h3>
+                </div>
+            </div>
+            <div class="item item-2">
+                <div class="middle_card">
+                    <div class="profile">
+                            <img src="images/foods/pizza.png" height="100" width="120" alt="Pizza">
+                            <p>Pizza</p> 
+                            <p>Pizza is an Italian dish featuring flattened bread dough topped with olive oil, tomato, cheese, and various ingredients, baked quickly. </p>                           </p>
+                        <button id="remove-button" class="delete">Delete Food</button>
+                    </div>  
+                </div>
+            </div>
+            <div class="item item-4">
+                <form id="form">
+                    <label for="foodname">Food Name:</label><br>
+                    <input type="text" id="foodname" name="foodname" class="details" required><br>
+
+                    <label for="description">Description:</label><br>
+                    <input type="text" id="description" name="description" class="details" required><br>
+
+                    <label for="img">Image URL:</label><br>
+                    <input type="text" id="img" name="img" class="details" required><br>
+
+                    <label for="rank">Rank:</label><br>
+                    <input type="number" id="rank" name="rank" class="details" required><br>
+
+                    
+                </form>
+                <button id="submit">Submit</button>
+            </div>
+            <div class="item item-3">
+                <div class="ads_head">
+                    <h3>ADS</h3>
+                </div>
+                <div class="ads">
+                    <img src="images/ads/iPhone.jpg" height="120" width="170px">
+                </div>
+                <div class="ads">
+                    <img src="images/ads/valorant.jpg" height="120" width="170px">
+                </div>
+                <div class="ads">
+                    <img src="images/ads/shopee.png" height="120" width="170px">
+                </div>
+            </div>
+        </div>
+        <script src="http://localhost:3000/form.js"></script>
+    </body>
+</html>
