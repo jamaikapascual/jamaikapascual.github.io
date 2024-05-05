@@ -1,3 +1,10 @@
+LAZADO SHOPPING APP
+
+Full Name: JAMAIKA PASCUAL
+Section: UV3L
+
+The Lazado Shopping App is a React-based web application that allows users to browse and shop for various products, including appliances, gadgets, and accessories. It features a user-friendly interface with navigation options, product cards, and an "Add to Cart" functionS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
